@@ -14,6 +14,8 @@ maincode.py - The main source code
 
 demo.ipynb - Empty demo code in Jupyter Notebook for free use
 
+ChelseaLeeds_Presentation.pptx - The powerpoint presentation used in the video tutorial
+
 team1_sentiment.png - Example sentiment bar chart for Team 1 (new file will be saved down if main code is run)
 team1_BM25positive.png - Example positive BM25 average ranking for Team 1 (new file will be saved down if main code is run)
 team1_BM25negative.png - Example negative BM25 average ranking for Team 1 (new file will be saved down if main code is run)
