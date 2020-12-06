@@ -8,17 +8,11 @@ The main idea of this repo is to provide the code, documentaion, and demo for a 
 
 YouTube Demo Link: 
 
-Project Proposal.pdf - The initial project proposal. 
-
-Progress Report.pdf - Progress Report as of 11/30/20.
-
 maincode.py - The main source code
 
-video_demo.ipynb - The demo code / output that was used for the YouTube video tutorial 
+12_5_20_ChelseaLeeds.ipynb - The demo code / output that was used for the YouTube video tutorial 
 
 demo.ipynb - Empty demo code in Jupyter Notebook for free use
-
-Tweepy Review.docx - Review done on the Tweepy package for the course
 
 team1_sentiment.png - Example sentiment bar chart for Team 1 (new file will be saved down if main code is run)
 team1_BM25positive.png - Example positive BM25 average ranking for Team 1 (new file will be saved down if main code is run)
